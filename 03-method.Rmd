@@ -1,0 +1,111 @@
+# UK-Spec Competencies
+
+> You will be required to show competency in a range of areas. Most of these are
+not design though. Look at your institutional guidelines to find out. This section will review a generic process for obtaining the required competencies in development objectives.
+
+## What is UK-spec Competencies
+
+Development objectives (DO) are a set of standards set out by the Engineering Council
+(EngC) which any person wishing to become a chartered engineer must achieve. The EngC
+sets the level of competence for CEng; the institutions then interpret DO’s specific to their
+discipline. It is known that the IChemE has a greater emphasis on safety; the IStructE
+emphasises design and the ICE emphasises contract management. In all cases, the core
+competencies set forth by the EngC must be satisfied for you to register as a CEng.
+A recent study by the EngC identified that the holder of an EngD possesses a similar skill-set
+to that of a CEng (Seddon, 2012). A mapping of this can be found in Vitae (2012) identifying
+the areas in which a researcher’s experience covers the DO’s. You would be wise to study
+this document, as it will help to identify where you can achieve some objectives. 
+<!--The requirements set out by the EngC are as follows; the bold titles are the general area and the
+sub titles are specific objectives: 
+
+**TABLE TO GO HERE**
+-->
+
+Table sourced from: EngC (2013).
+
+You will notice that the emphasis is not on ‘design’ which is a common misconception but is 
+actually on research, analysis of problems and implementation of solutions, leadership and 
+organisation, communication and professionalism. You should notice that your project and
+EngD experience covers almost all of these.
+
+## Level of competency
+
+You will probably need to demonstrate competency in the afore-mentioned areas. The objectives 
+for ICE are as follows and may be similar for your institution as all are part of the Engineering Council:
+
+
+<!-- ** TABLE **
+-->
+You will probably need to achieve mostly B’s, a few E’s and possibly a K or two. Look into it
+and find out. Careful review will show that the very nature of your EngD covers at least 10 of
+these up to B. Those that are not covered up to B can likely be covered to E or definitely K.
+You will need to show that you have multiple instances where you have achieved each level
+of competency in each objective, especially at E and B.
+
+## Fulfilling objectives
+When you have decided which scheme you are on and have found a mentor you need to get
+the institutional guidelines in front of you and see exactly what the requirements are in each
+category. Look at your project and see where you can fulfil these.
+A typical RE should have no problem obtaining the relevant experience in categories A, B, D.
+You should also be able to cover the majority of C and E though you may struggle with
+specific DO’s set by your institution as there may be emphasis on contract management or
+tenders which will be difficult for you to get experience in. Don’t worry about it, gain
+knowledge K in these areas and focus on them when you finish your EngD.
+The DO’s are intentionally wide ranging to facilitate the range of experience which engineers
+working across the disciplines posses. Please refer to EngC (2013) and Vitae (2012) and your
+specific institution’s guidelines for a breakdown of the kind of activities which will contribute. It
+is also worth reviewing IStructE (Current) for an examples of how R&D can be used to fulfil
+DO’s.
+
+## Planning for objectives
+Map out specifically where you think you can achieve specific objectives. If you are already
+into your EngD then do this retrospectively for the time which has already been as well.
+Remember that you need multiple instances of each level of achievement for each DO so try
+to plan where you can achieve easy wins in your first year or so and focus on more difficult
+objectives in the remainder of the project.
+
+## Using your modules
+You may not realise that the modules you undertake during your EngD can contribute toward
+your development objectives, perhaps not at levels E or B but it is worth seeing if you can tick
+any boxes here. Certainly those which require you to lead and manage others can be used
+possibly even to level E. Make sure you know what modules you will be taking and the
+learning outcomes you can achieve toward becoming chartered. If you have choice over your
+coursework then consider aiming it at something which will develop knowledge useful to your
+project as well as your professional development.
+
+## Getting those more difficult objectives
+As mentioned, there may be some objectives which are harder to get experience E and ability
+B in. you may be able to address this through structured reading or specific courses offered
+through your university, another university via distance learning or through your institution.
+You should be able to gain appreciation A and knowledge K through discussions with your
+mentors and supervisors and through reviewing what your company does in these areas.
+Make sure you take notes and include this in your development reports and remember to
+include evidence. If you have learnt from a book, if there are questions at the end of a chapter
+then you could answer some and include these in your portfolio. You could even write a
+technical report on a topic to prove competence. Speak to your institution on this as they
+should be able to offer guidance.
+
+##Post-grad experience
+
+Did you know that the educational base and IDP can run concurrently? You will have
+developed an appreciation of many of the DO’s through your degree(s). Be careful not to over
+sell your pre-graduation experience though as if you think you developed experience (E) in
+DO’s during your undergrad then you are most likely mistaken. If you took an MSc then this is
+even better as it is bona fide post-graduation experience which can be used to obtain A and K
+as well as additional CPD (we’ll get to CPD soon). Your dissertation may have even been
+gained experience (E) but again be weary as you will have to defend this at the professional
+review.
+
+## Work experience
+If you have any work experience either paid or not then this can be used to fulfil parts of some
+DO’s. If you did a gap year in industry then review what you covered and see what DO’s you
+have achieved. If you designed a beam for a friend or sketched a concept design for a small
+retaining wall in your gran’s garden then this can contribute toward your DO’s. Just don’t over
+sell your experience.
+
+## Accommodating your weak areas
+Though you should be able to complete most of the objectives to the required standard, there
+will be some which you cannot. Find these and see if you can achieve them some other way
+such as self study or getting involved with live projects at work. You will likely need to 
+finish some of these when you finish the EngD and that is fine. Just make sure you have made
+some progress toward that objective i.e. A and K.

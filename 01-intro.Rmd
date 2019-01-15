@@ -1,0 +1,110 @@
+# Introduction {#intro}
+
+> A primary reason the EngD was created was to allow engineers to work on
+industrially relevant research without sacrificing time spent toward becoming
+chartered. Though virtually no EngD centres are not accredited in the same way a
+company training scheme is, this doesn’t mean you can’t get chartered through
+your EngD. Read on to find out how.
+
+## WHat is the EngD
+
+For those of you who are aware of the origins of the degree, you will know that it was created
+to allow engineering graduates to work in research whilst developing the skills required to
+become chartered. This came about as there was a lack of engineers undertaking research
+due to fears of losing out on practical development time and a lack of research which could be
+applied immediately to industry. The resultant was the EngD. The EngD is fantastic in many
+ways but for it to truly live up to its potential a clear and recognised route to CEng must exist.
+Though there is concerted effort toward this with the relevant bodies, this may still be a few
+years off.
+
+In essence, the question the professional reviewer wants to know the answer to is “would this
+person if given a position of responsibility be capable of making the right decision?” (from the
+ICE guidelines). The ability to synthesize a solution and a plan how to achieve it is more
+important than your ability to use the latest FEA software. In the same vein, your ability to use
+first principles is more useful than your knowledge of a multitude of advanced analysis
+techniques. It is a dedicated person of rounded character who understands what it is to be an
+engineer and just as importantly knows the limits of their own knowledge that will become
+chartered fastest.
+
+## Engineering Council
+
+The Engineering Council is currently working toward accrediting EngD’s in the same way that
+a company approved training scheme would be. This is an ultimate goal for an RE as
+completion of your EngD would essentially mean you can apply for CEng registration. This is
+not finalised though and your doctoral centre may or may not gain accreditation and if it does
+it will not necessarily be with the institution for which you are qualified. This means that you
+need to take ownership of your development toward CEng. It is recognised that an EngD
+graduate should possess practically the same skills as that of a chartered engineer; you just
+need to demonstrate this.
+
+> *“An EngD holder is in a broadly comparable position to someone who has
+completed an accredited in-company initial professional development
+scheme”.*
+
+## Why Do It?
+
+Chartership is a rite of passage for a professional engineer and shows that you are capable of
+delivering real projects and have developed skills which can only be learned through realworld
+work. As an academic it will give you credibility and as a professional it will give you
+authority and the people you lead will feel confident in your ability as you will have reached
+the benchmark standard for engineering. If you wish to work in the civil, structural, chemical or
+mechanical engineering industries then being chartered is a pre-requisite to having influence
+and power.
+
+You are currently working in a job which will allow you to practically become chartered whilst
+obtaining a doctorate. You will achieve 4 years of work experience and fulfil all or at least the
+majority of your development objectives whilst doing PhD level research. With a bit of hard
+work and organisation you will be chartered and have passed your viva well within a year of
+your thesis submission date. You will be in a favourable position early in your career and
+should be able to write your own ticket.
+
+If you do not start working toward becoming chartered whilst on your EngD, then you will have
+to do all the work when you finish, working full-time, when you probably have a family and
+have forgotten most of what you have already done. That is not a good position to be in.
+Why not capitalise on your time? Work toward both goals at the same time, jump past the first
+half of the career ladder and race to Technical Director or CEO? If you graduate nearchartered
+then you will have a wider range of jobs you can apply for, better pay and you will
+progress in your career faster.
+
+## Myth Busting
+
+There are a few myths which may inhibit you from working toward CEng whilst being a RE.
+Consider the graduate civil engineer working for a contractor; they will typically gain much
+experience in resource and people management, contracts and budgeting but may not do
+much design. Conversely, the graduate consultant may have much design experience, but
+may not have as many opportunities to develop interpersonal skills to as high a standard
+Does this make them any less of an engineer? In the same vein, the RE will have extensive
+experience in emerging technology and interpersonal skills but may lack in procurement or
+contracts. All are working as engineers, their focus is different that’s all. Having confidence in
+what you are good at is as important as understanding the limits of your knowledge. Let the
+contractors focus on site management. Let the consultants focus on detailed design. Focus
+on what you are good at – solving complex problems through innovation, leadership and
+doctoral-level understanding.
+
+
+### Myth 1: Your Project Does Not Have Enough Engineering In It
+
+This is not the case. You are working toward a Doctor of Engineering degree and your project
+would not have been commissioned if it did not have an engineering focus. Take a look at the
+EngC’s guidelines as well as your institutions guidelines for becoming chartered. You will
+notice that the guidelines are not “Design this using British Standards”, but more akin to
+“Demonstrate that you can use your engineering knowledge to make the most of existing and
+emerging technology”. They are deliberately broad so that a wide range of applicants can be
+accommodated. Get to know the requirements and start to identify where your project can
+fulfil these. You will be surprised at how many objectives your project will cover even if you
+feel that it does not have enough ‘engineering’ in it.
+
+### Myth 2: Lack of Site Experience
+
+Though this used to be a requirement for the ICE, this has not been the case for many years
+now (ICE, 2013). Your institution may have this as an objective and if so, see if you can get a
+site visit in. Your institution should hold regular site visits which will help you to gain some
+experience and you may be able to tag along on a site visit with your company (the client
+does not pay for your time as you are already paid).
+
+### Myth 3: I haven’t Done Enough Detailed Design
+Again, this is not a requirement for CEng registration though you must have a full
+understanding of the underlying principles. If you are looking to register with the IStructE then
+you will actually need a decent amount of design experience (and you will have to pass the
+infamously difficult exam…), however most other institutions do not require copious amounts
+of design.

@@ -1,0 +1,38 @@
+# IPD Portfolio
+
+> Any person applying for CEng registration will be required to demonstrate that they have fulfilled the required development objectives to a satisfactory level. This is most easily done through a portfolio of work which documents and evidences your accomplishment of each development objective.
+
+
+## Format
+
+Your portfolio should consist of your reports and appendices and any other evidence such as
+journal/conference papers, CAD drawings, maybe even your thesis will become a part of this.
+The main point is to keep everything which can prove your engineering competency in a
+single location and have it referenced in your reports. Typical items in your portfolio may
+include:
+* Sketches. Have you sketched a process flow? Have you sketched a layout of any
+kind? Have you sketched an algorithm? Have you asked a CAD technician to draw
+you something?
+* Calculations. Have you calculated energy loads, stresses, material flows or
+deflections? Have you used CFD, FEA or MATLAB? If you have used software then
+you will have to provide basic hand calcs to validate the order of magnitude.
+* Plans. This can include method statements on how you are going to perform research
+over the next 6 months or year. Gantt charts, journal publication plans – what will you
+write about? What is the target journal? What is the structure?
+* Meeting notes. This can include minutes from your supervisor meetings, meetings
+with all other people if possible. Keep all email correspondence and use it to show
+your involvement with consultancy projects.
+* A review of the conference or module you attended identifying specific learning
+outcomes.
+* CPD attendance evidence. Your CPD log and any certificates you have.
+This list is by no means exhaustive. Your institution should provide guidelines on this though if
+they do not then you could review ‘IPD Regulations Research and Development IStructE’
+(IStructE, Current) as this provides some good examples, though keep in mind that IPD for
+IStructE is necessarily aimed at design and site visits and you may not necessarily need
+either for your institution.
+
+All of these can be used as evidence so long as they are relevant and clearly show
+competence in an objective. Check your institution handbook for a comprehensive but not
+exhaustive list as well as more specific guidance on the kind of thing that is required in a
+report. Remember that your portfolio of work should not exceed 1 kg (for ICE / IStructE at
+least) so make sure it’s all killer, no filler.

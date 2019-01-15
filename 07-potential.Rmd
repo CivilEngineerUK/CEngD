@@ -1,0 +1,95 @@
+# Using the Potential of Your EngD
+
+> An EngD is different to full-time work and you must recognise this. This makes the route to CEng slightly different but also brings opportunities for you to become a better engineer. Keep on your toes and you’ll get through it just fine.
+
+## EngD vs. grad scheme
+You may have previously thought that graduates on a grad scheme would be in a better
+position to register for CEng though this is not necessarily the case. According to Macdonald
+Steels (2011), “[ICE] graduates frequently fail to demonstrate ability in DO’s A1, A2 and B1,
+B2, B3”. These objectives require research and problem solving. I would imagine that many
+graduates struggle to get much research done, but yet they are capable of passing the
+professional review. The reviewers want to know that you are capable of showing ability B if
+you were in a position of responsibility. You don’t necessarily of had to have actually done lots
+of this, only to prove you are capable of this. These are some DO’s where an RE should be
+stronger than a grad scheme engineer and vice-versa. Each route has its benefits; this route
+
+## Student/researcher/engineer
+As you are technically a student working on a research project, you may think that many of
+the objectives are too difficult to achieve. This is not the case. You must remember that you
+are a student, a professional researcher, a doctoral candidate and most importantly an
+engineer. Learn to use this to your advantage all of the time. On one hand you can enter
+student competitions; receive reduced or free entry to conferences and access a
+comprehensive online library of books and journals. On the other you can play the expert and
+apply your cutting-edge research to your company.
+Most of the DO’s do not stipulate you must work on consultancy projects. You are conducting
+a project in which has deadlines, requires technical reports, defence of your work, critical
+thinking, the ability to administer persuasive arguments and to deliver simple solutions to
+complex problems. This is the very ethos of being an engineer.
+
+## Making the most of opportunities
+
+You will find that you have to maximise on any experience you get in some areas. Record
+every project meeting, take every opportunity toward your professional development that you
+can get and identify every DO that you achieve as you may not have as many opportunities
+for some as those on graduate schemes. Don’t sell your experience short and never over-sell
+your experience. Stay truthful and back it with evidence.
+
+## Meetings
+
+Keep good note of meetings you have both at the university and workplace. The bimonthly
+meetings you chair show management of people, leading a project team and facilitating
+discussion, expressing a problem and working toward a solution and planning amongst other
+things. Keep good notes and check off DO’s where appropriate.
+
+## Emails and correspondence
+
+Keep all project correspondence in a separate folder. Any time you email someone to do
+something for you, save it. This is evidence that you have managed others to get a task done
+and is one of the more difficult objectives to gain full competency in. Did you ask a CAD
+technician to model your sketch? Did you get someone to help you in the lab? Did you offer
+specialist advice to anyone? Keep all of the correspondence. Your portfolio for professional
+review should contain such items along with the outputs if possible.
+
+## Helping others
+
+After a while you will become recognised as having advanced knowledge in your subject and
+you may be approached by people in your company or your coursemates for advice. Make
+sure you take note of this as you will be helping others develop (B1, C3, D1, D2, E4 / CPD)
+obviously you can’t claim experience (E) or ability (B) in all of these simultaneously so be
+selective and don’t overstate your input. If it was a 5 minute chat then wait until you have had
+several of these before you log it as CPD and if you want to use it as IPD evidence then make
+sure you state the outputs and evidence them if possible, i.e. “Me and senior engineer X
+discussed how problem Y could be solved using a technique I have been researching. We
+found that the technique could be applied to this problem successfully and X then
+implemented this technique with guidance from me. The technique worked well and some
+cost savings were achieved both in design time and in finding an efficient solution to the
+problem. This is evidenced in section Z.1 in the portfolio” B1, C3 (experience E).
+Working on a live project shows you applying your research or knowledge to real problems. It
+also shows team work and other skills. If you teach someone to do something then this shows
+you are obtaining experience E or proving ability B in this skill. Make sure you take note. 
+
+## Conferences
+
+Conferences can count for up to 5 days of CPD. You may write a paper which is another few
+days and also shows communication of ideas D1, identifying problems and posing a solution
+B1, developing you knowledge A1 as well as the interpersonal skills you will need to present 
+your paper D2. You will learn many new skills too; make sure you recognise this and make
+the most of it. If you partake in discussions then this shows team work amongst other skills.
+
+## Modules
+
+Your modules can count toward IPD if you can recognise which areas are covered. Review all
+of your modules and mark which DO’s you can get appreciation (A) or knowledge (K)
+through. There may be the odd one in which you can achieve some experience (E) though be
+weary about this. Make sure that you don’t over-state your claim though as you will not gain
+ability (A) in a module!
+
+## Don’t cheat
+
+You may find that you are not gaining experience in some objectives. You may be able to
+develop through structured reading or the like. Do not over-claim achievements and do not lie
+about your achievements. Professionalism and integrity are cornerstones of being a chartered
+engineer and must never be sacrificed. Remember that the potential to achieve an objective
+can sometimes be as potent as proving experience in it. Besides, you can always complete
+DO’s when you finish the EngD. The main thing is to make an effort toward as many of them
+as you can.

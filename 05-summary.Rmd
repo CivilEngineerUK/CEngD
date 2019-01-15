@@ -1,0 +1,65 @@
+# CPD
+
+> CPD is an often overlooked component of becoming chartered but is actually
+crucial. Maintaining an up to date CPD file will pay dividends in the future and is a legal requirement of being an engineer.
+
+
+## What is CPD?
+
+CPD stands for continuing professional development is used to show that you are learning
+throughout your career. It is a legal requirement of being an engineer and you can be called
+upon at anytime by your institution to show your CPD records. You will probably need at least
+30 days of CPD before you apply for the professional review and you may even need as
+much as 180 days if you are not on an accredited training route. Don’t worry; you are
+probably doing more than 180 days of CPD each year, you just need to record some of it. If
+you leave this to last minute then you will struggle with remembering what you have done.
+Fortunately most CPD can be logged online in your institutions website. Get familiar with it
+and get it done. You will be thankful later.
+
+## What counts as CPD
+CPD is any time that you learn something new. As an EngD you are actually in one continuous 
+CPD environment. You are continually assimilating new skills, the trick is to recognise this 
+and make note. The following samples have been taken from ICE publication 3006A but are by no 
+means exhaustive:
+
+* Learning on the job
+* Peer guidance and discussion
+* In*house presentations
+* Attending trade exhibitions and systematically gathering information and knowledge
+to develop as an engineer
+* Structured reading (test your understanding of the reading material)
+* Work shadowing to add to your stack of knowledge and expertise for routine tasks
+* Promoting engineering in primary and secondary schools
+* Technical presentations
+* Writing reports / writing for publication
+* Preparation of CPD presentations to colleagues and other professionals
+* Exposure to new situations at work which require action
+* Participating in careers conventions
+* Job secondment
+* Regional ICE Events
+* Watching training films and television programmes including the Civil Engineers Channel from TEN
+* Listening to training CDs for research purposes and technical information
+* Participating in Institution activities such as acting as a Reviewer, a Student Liaison
+Officer or membership of committees where new initiatives and ideas are discussed
+* Sharing knowledge and expertise with others
+* Allied professional events
+* Acting as a coach or mentor for a fellow professional
+* Lecturing at organised events
+* Research both on the job and for further qualification
+* Teaching (for those not in teaching post)
+* Self*study through reading text books or study packs
+* Personal learning from the internet
+* Validated and Accredited qualifications
+* Formal distance and open learning courses
+* Courses, conferences, seminars and workshops
+
+As you will recognise, most of these items will be covered many times through your EngD, take note 
+as you are doing such activities and mark it on your CPD file. Some may even count toward your IPD. 
+Generally, no single aspect of a course should count for more than 5 days of CPD. Each module MAY be 
+eligible for up to 5 days of CPD. Check with your institution though as guidelines on CPD vary.
+
+## CPD for planning Development
+
+The overall goal of CPD is to identify where you are weak and to target these areas in a structured 
+manner. Your institution should have guidelines on this but you may also want to look at ICE 3006A 
+(ICE, 2012) as this is well written and reasonably comprehensive on how to approach CPD for professional development.

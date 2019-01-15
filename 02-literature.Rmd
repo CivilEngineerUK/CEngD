@@ -1,0 +1,152 @@
+# How can it be Achieved?
+
+> You may or may not be aware that you can probably complete 80% or more of the
+work toward becoming chartered whilst studying for your EngD. All you need is a
+bit of organisation and foresight.
+
+
+## First steps
+Even if you have already started your EngD, these steps will be useful in getting you on
+course to becoming a chartered engineer.
+These are the things you should do first.
+
+1. Speak to your company and see if they have an accredited training scheme. If so find
+out if you can get on it, if not then join the relevant institution as a graduate (at the
+reduced rate, see section 2.2.1.1 for details).
+
+2. Go on your institution’s website and read all of the relevant literature. Get to know the
+requirements and objectives. You should also familiarise yourself with the EngC
+standards for CEng registration found in: EngC (2013).
+
+3. Look at your project and see which objectives you can achieve to the required
+standard and which you cannot. There may be some you cannot achieve whilst on
+the EngD. Speak to your mentor and possibly contact your institution for guidance on
+how these can be obtained. If you are on an accredited scheme then you may be
+able to get the required experience if your mentor is aware of where you are weak. If
+you feel that an objective cannot be achieved then don’t worry, gain as much
+experience with it as possible and achieve the rest soon after graduation.
+
+4. Contact your institution and discuss that you are taking an EngD and want to become
+chartered. They should be able to offer guidance and may even have a special
+scheme aimed at researchers such as the ‘IStructE Research and Development
+Route to Chartered Membership’.
+
+5. Download the IStructE Research and Development Route to Chartered Membership’
+even if you are not a structural engineer as it shows the kind of thinking that is
+required to use research to complete objectives and will help you understand the way
+to approach your own objectives.
+
+6. Start a portfolio. Get used to fulfilling objectives and monitoring your progress through
+regular reports backed by evidence. No matter what route you take you cannot
+charter without evidence of competency so get used to doing it from the start. You should be working toward being an excellent report writer through your EngD anyway so this shouldn’t be too taxing.
+
+## Route to Chartership
+
+The basic process to becoming chartered is:
+
+1. Complete an accredited MEng or BSc/BEng * MSc (4 years).
+2. Initial professional development (IPD) in the workplace (3-5 years).
+3. Professional review.
+4. Chartered.
+
+There are also several routes to becoming chartered:
+
+* Accredited company training scheme.
+* Self-managed portfolio.
+* Retrospectively collated portfolio.
+
+An accredited scheme is preferable, followed by the self-managed route. The retrospectively collated route is not the best option. If you take this option then it is because you have not planned well enough. You are an EngD and you should always be looking for the most effective solution to situation.
+
+### Company Accredited Scheme
+
+If your company has an accredited scheme, see if you can get on it. You supervisor should be happy that you are keen to get chartered and will likely to want to hire you when you finish.
+The benefit of an accredited company training scheme is structured and your employer is able to issue a certificate of completion or partial completion. It is likely that you will not be able to completely finish your IPD through your EngD so a certificate showing that you have completed 80% of the development objectives is very useful if you are to leave the company after the project as you can complete the remaining 20% with your next company.
+Obtaining a certificate form an accredited scheme also means that someone in your company can sign off and say that you are ready for professional review rather than having to submit a portfolio to your institution to see if you are ready for the professional review.
+
+#### Your Company has an Accredited Scheme but You Can't get on it
+
+The scheme costs the company and they may not want to pay for you to be on it as you are not technically an employee. If this is your situation than follow these steps:
+
+1. Find a mentor in your company. This usually needs to be a chartered engineer; your supervisor is ideal but can in some circumstances be a person of professional qualification (not necessarily in your discipline). Your company should allow you one even if they won’t pay for you membership. If you have trouble finding a supervisor,
+phone your institution and ask for help in finding a mentor; they should have a
+procedure to do this.
+
+2. Join your institution and pay your own fees for now. You should apply for graduate
+membership though as this will stand well when you apply for the professional review;
+this will either be free or around £60 per year as you are technically a student and
+earning below the poverty line.
+
+3. Follow the accredited training scheme as if you were on it. Meet your supervisor
+regularly and plan your development.
+
+4. In your final year ask to be officially put on the training scheme; hopefully your
+company will pay the fee this time as you can show a portfolio of work. You can now get all of the work you have done already signed off officially during this period as you
+will have already collated your portfolio and have your reports done. Remember the duration of IPD is not important; it is the quality that counts and any work you
+undertake prior to an official scheme counts, so long as you can document it.
+
+### Self-Managed
+
+The self managed route is similar to the accredited training scheme except that your company
+cannot sign you off officially at the end – you will need to submit a portfolio of work to your
+institution containing your reports and annexes and any supporting work. You can find more
+information on this on your institutions website.
+This is still a favourable route and should be followed if your company just doesn’t have a
+scheme for your discipline. For all intents and purposes, it is as rigorous as the accredited
+scheme, the major difference is that your institution will have to sign off your training and
+recommend you for professional review rather than your company.
+
+### Retrospectively Collated
+
+This is the least favourable approach and is essentially the ‘Do nothing’ option. If you do not
+work toward being chartered whilst on your EngD then this route you will have to follow. It
+involves you picking apart your past 4-5 years and matching your work to the development
+objectives. This route is not preferable if you want to charter quickly.
+
+## You don’t have the academic base for chartership
+
+Some EngD’s are accredited as ‘Further Learning’ toward CEng. Speak to the programme
+director about this if you are unsure. If it is not then you could undertake an academic
+appraisal of your undergrad * masters and or EngD to see if combined they give you the
+academic basis. It will tell you whether you have the academic background or not and if not it
+should indicate which areas you need to obtain academic qualification in. You may find that
+you only need to take a module or two to achieve this as your EngD should cover some of the
+Further Learning competencies (if you hold a BSc or BEng already). Many modules / courses
+are available through distance learning nowadays. If you find that you need an entire MSc to
+obtain the educational foundation then don’t panic! Just follow your accredited scheme or self-managed
+route for IPD and either:
+
+* Do a part-time MSc in your own time; there are grants which will cover some of the
+funding for this though don’t think that you will be able to spend hours of work time on
+this. Your EngD is your job and your first responsibility is to your sponsor and
+university. You will have to do this in your own time.
+
+* See if your company will sponsor you to do an MSc when you finish (if you are planning on 
+staying on with them).
+ Do an MSc when you finish. There are grants available for outstanding engineers which
+obviously you will one of by holding the title Dr. EngD.
+
+* Ask your next employer to sponsor you to do a part-time MSc. Many will and you will still
+get chartered  within a year or two of finishing your EngD. Just make sure that you are up to 
+date with your IPD and if possible have a certificate of completion / partial completion from 
+a training agreement.
+
+* Work toward being incorporated and look to become chartered in the future. This can be done
+through the technical report route and as an expert report writer; you should ace this when 
+the time comes.
+The main thing here is to make sure you follow some sort of development route and don’t give 
+up because you are concerned that you may be lacking the academic foundation. You are an EngD; 
+your job is to find solutions to complex problems and to use cunning and intelligence to get 
+things done. Be smart and you will get it sorted one way or another in a reasonable timeframe
+
+The main thing here is to make sure you follow some sort of development route and don’t give 
+up because you are concerned that you may be lacking the academic foundation. You are an
+EngD; your job is to find solutions to complex problems and to use cunning and intelligence 
+to get things done. Be smart and you will get it sorted one way or another in a reasonable timeframe.
+
+### You have a Foreign Degree or are Chartered in Another Country
+
+Contact your relevant UK institution and see if there is a transfer program if you are chartered
+in another country already. If not then get an education appraisal and see where you stand.
+You may find that you have the academic base already or only need to take a module or two.
+Remember to get them to review your EngD along with your foreign qualifications as it may
+cover some areas which you do not already have.
