@@ -6,7 +6,7 @@ chartered. Though virtually no EngD centres are not accredited in the same way a
 company training scheme is, this doesn’t mean you can’t get chartered through
 your EngD. Read on to find out how.
 
-## WHat is the EngD
+## What is the EngD
 
 For those of you who are aware of the origins of the degree, you will know that it was created
 to allow engineering graduates to work in research whilst developing the skills required to
@@ -97,7 +97,7 @@ feel that it does not have enough ‘engineering’ in it.
 ### Myth 2: Lack of Site Experience
 
 Though this used to be a requirement for the ICE, this has not been the case for many years
-now (ICE, 2013). Your institution may have this as an objective and if so, see if you can get a
+now. Your institution may have this as an objective and if so, see if you can get a
 site visit in. Your institution should hold regular site visits which will help you to gain some
 experience and you may be able to tag along on a site visit with your company (the client
 does not pay for your time as you are already paid).

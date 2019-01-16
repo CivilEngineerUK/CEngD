@@ -1,6 +1,6 @@
 --- 
 title: "The EngD Guide To Chartership"
-subtitle: "Killing Two Birds with One Stone"
+subtitle: "Two Birds, One Stone"
 author: "Michael Rustell"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
@@ -34,6 +34,14 @@ institution. You need to become familiar with your institutions guidelines and p
 development to accommodate. This guide will however offer practical advice on how to utilise
 your time on the EngD toward being chartered and will hopefully enable you to sit your chartered
 membership.
+
+# Work in Progress {-}
+
+This book is a work in progress, written in RMarkdown. The source code is located on a Github repo 
+[https://github.com/CivilEngineerUK/CEngD.git](https://github.com/CivilEngineerUK/CEngD.git).
+
+Please feel free to pull the code, make suggestions, edits, section requests etc.
+
 
 # Affiliation {-}
 
