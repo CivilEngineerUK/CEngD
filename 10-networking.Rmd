@@ -4,10 +4,19 @@
 
 ## Blaggers Guide to Networking
 
-Building a network is so important - you never know, maybe you will want to start your own 
-consultancy one day, who knows? Every person you meet is a potential future colleage, employer
-or client so take the opportunity to meet people and exchange business cards.
+Building a network is so important - and knowing the skills, experience and career trajectories
+of your network is equally important. When you start to think strategically about your career,
+the difference between making things happen and not, is often the product of how well you have
+cultivated relationships. If you think in resource terms, the people you know possess skills,  
+experience and knowledge that you do not and by being on good, professional terms with a wide 
+range of people, you have access to a potentially large skillset. 
+Every person you meet is a potential future colleage, employer or client so take the opportunity 
+to meet people, learn about their career path and exchange business cards. 
 
+As your career progresses, many of the interesting things that you will get to do are through
+being able to see how the teams and people you know, potentially in completely different fields
+can come together on a project to do something new and exciting - innovation often occurs where
+two well-established fields overlap.
 
 ## Conferences
 
@@ -15,10 +24,13 @@ Whilst on the programme, I had a conference budget of £2000 for 4 years. I ende
 conferences, 7 of which were abroad, most in America. I did this by entering student competitions 
 which offered a free ticket and the occasional travel grant, applying for university funding 
 and I was also able to get funding from my company when I won a prize and was invited to the 
-conference to present and collect it. It's important to go to these things - I managed to get 
-interviews and my post-EngD job via networking at conferences. As an EngD, you offer a blend of 
-practical engineering which is augmented through your specific area. This is an exotic blend
-and it gives you some additional value to leverage.
+conference to present and collect it. It's important to go to these things - it gets your name out,
+allows you to see the world and develop a network. 
+I managed to get 
+interviews and my post-EngD job via networking at conferences and keep contact with a number of people
+that I like and could see myself working with in the future.
+As an EngD, you offer practical engineering which is augmented through your specific area. This is an exotic blend
+and it gives you some additional value to leverage when pitching yourself.
 
 
 ## Have a 30 second Elevator Pitch Ready
@@ -30,5 +42,6 @@ benefit. If they are interested in the detail they will ask.
 ## Use your Research to Solve Their Problems
 
 When meeting people, you should be thinking of how your experience and knowledge can be applied to 
-a problem they are likely to have. People are 
+a problem they are likely to have. People are usually happy when you can pitch new ideas to old problems
+and this can be an in for you to start a collaboration or even just to develop your name as a problem-solver.
 
