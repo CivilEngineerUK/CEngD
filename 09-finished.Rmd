@@ -5,10 +5,22 @@
 
 ## The Road Ahead
 
-When you graduate from the EngD, you will feel all sorts of things ranging from exhaustion,
-satisfaction, fear of "the real engineering world" and a deep sense of satisfaction.
+When you graduate from the EngD, you will feel all sorts of things ranging from exhaustion, 
+fear of "the real engineering world" and a deep sense of satisfaction. You 
+may be offered a job with your sponsor, you may want to go elsewhere and do new things. It is 
+important to be planning for this at the start of your final year.
 
 ## Marketing Yourself for a New Job
 
+TODO
+
 ## Practicing Your Art
 
+The thing about the EngD is that you are developing industry relevant skills and experience
+that is bespoke and tailored to specific technical problems. A few of the EngD graduates I know are 
+working in areas that did not exist before there were people with the skills and foresight to do
+things differently and having this foresight can lead you to new areas and provide career advancement.
+
+The skills and knowledge you have developed provide a foundation for your future. 
+
+TODO
