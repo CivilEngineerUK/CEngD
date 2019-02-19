@@ -1,6 +1,6 @@
 --- 
-title: "The EngD Guide To Chartership"
-subtitle: "Two Birds, One Stone"
+title: "Chartership for Industrial Researchers"
+subtitle: "CEng for EngD's"
 author: "Michael Rustell"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
@@ -8,30 +8,38 @@ documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
-description: "This is a a short guide on how you can get chartered largely through the work you undertake during your Engineering Doctorate"
+description: "A short guide on how you can get chartered through the work you undertake during your Engineering Doctorate"
 ---
 
 # Preface {-}
 
 Many EngD’s have an educational background in engineering and are interested in becoming
-chartered one day but are not sure how they can get there through their EngD. Though there
-is a growing acceptance that the skills developed through an EngD are similar to those
-developed on an accredited company training scheme, at this time only a couple of EngD
-centres have achieved accreditation of the EngD as Initial Professional Development.
+chartered one day but hardly any of the industrial doctoral centres are accredited by the
+Engineering Council for *Initial Professional Development* (IPD). This presents a challenge
+for the researcher as whilst there is a growing acceptance that the skill and knowledge 
+required for registration as a Chartered Engineer are comparable to somebody completing an
+industrial doctorate, the process for capitalising on this is ill-defined. This puts 
+researchers at risk of not fulfilling their IPD objectives whilst conducting their 
+research and missing this opportunity.
 
 Ideally, all centres would achieve accreditation with one or more institutions and a formal
 process for CEng registration after successful defence of the viva would exist. Hopefully this
-will happen one day, but for now it is up to you to get chartered through your EngD.
+will happen one day, but in the meantime it is up to the individual to drive this process. 
+Industrial researchers are usually employed by the university, not the company and sponsoring 
+IPD has a cost that must be borne by somebody. Not all companies are willing to pay this additional 
+cost, though with planning, this is not going to affect your development nor have a significant cost
+to the researcher.
 
 The aim of this document is to offer some guidance on how you can start working toward
-CEng whilst on your EngD, accredited or not. The process is not rocket-surgery; it is in fact
-easier to fulfil some of the objectives through the EngD than it is on a graduate scheme. The
-key is planning and understanding which aspects of your EngD contribute to the relevant
-objectives for CEng.
+CEng whilst conducting industrial research (sponsored by a company) whether your IDC is accredited
+for IPD or not and **get chartered in the same amount of time as sombody on a graduate development programme**. 
+The process is not rocket-surgery and is in many ways easier than being on a graduate development 
+programme. The key is planning and understanding which aspects of your research 
+contribute to the relevant objectives for CEng.
 
 This document should not replace your own judgement nor the guidance given by your
 institution. You need to become familiar with your institutions guidelines and plan your
-development to accommodate. This guide will however offer practical advice on how to utilise
+development. This guide will however offer practical advice on how to utilise
 your time on the EngD toward being chartered and will hopefully enable you to sit your chartered
 membership.
 
@@ -47,24 +55,24 @@ Please feel free to pull the code, make suggestions, edits, section requests etc
 
 The thoughts and ideas presented in this book are in no way shape or form associated with the
 Engineering Council, Institution of Civil Engineers, Institution of Structural Engineers or
-any other engineering institution, company or person. Read this at your own risk and don't 
-take my words as gospel - I've been wrong before!
+any other engineering institution, company or person. They are mine and mine alone and reflect
+my own experience and nobody elses. Read this at your own risk and don't take my words as gospel - 
+your situation will be different to mine.
 
 # Intended Audience {-}
 
-This book is geared toward people on an EngD programme, though is probably useful for anyone
-stemming from a research background who is thinking how to become chartered based on the 
-experience they have gained so far. The prose is based from my own experience
+This book is geared toward people conducting industrial research such as an Engineering Doctorate or
+Professional PhD, though has tips for anyone stemming from a research background who wants to become 
+chartered. The prose is based from my own experience
 negoiating toward CEng with the Institution of Civil Engineers whilst studying for my EngD. 
-There is a slight bias toward civil engineering though I've tried to be fairly neutral as
-much as possible.
+There is a slight bias toward civil engineering though I've tried to be fairly institutionally neutral as
+far as possible.
 
 # My Route {-}
 
-I enrolled on the EngD programme with the Susainability for Engineering and Energy Systems with the
-University of Surrey in 2011. My project was sponsored
-by HR Wallingford and it was in a nutshell using AI and statistics to optimise the design of
-LNG terminal infrastructure. I always knew that I would work primarily in industry, though research
+I enrolled on the EngD programme with the *Susainability for Engineering and Energy Systems* (SEES) with the
+University of Surrey in 2011. My project was broadly applied artificial intelligence in civil engineering.
+I always knew that I would work primarily in industry, though research
 did appeal to me and the EngD ticked all the boxes. Upon starting, I was keen to get signed up to
 the company training scheme - though there was a catch - I was not an employee and the company did
 not fancy paying 4 years of registraion fees for a non-employee on a temporary contract. 
@@ -79,15 +87,15 @@ to date and stated that I had achieved 80% of the objectives. As I had not been 
 until now, I did  not have to write quarterly reports - though I did need to write 6-monthly reports as part
 of the EngD programme and I used these to demonstrate achievement of objectives.
 
-When I finished the EngD I went to 
-work at AECOM as a marine engineer, I enrolled on their graduate scheme, ended up spending nearly a year
-on site (by chance) and sat my chartered membership exam the summer after I started at AECOM. I passed
-and was nominated for the James Rennie Medal, though did not win.
+When I finished the EngD I went to  work as an engineer at a global engineering consultancy, I transferred  
+onto their graduate scheme (with 80% of my objectives signed off) and sat and passed my *Chartered Membership
+Review* tin 2016.
 
-My EngD provided pretty much all of the experience I needed to become chartered and it was a pretty painless
-process over all. The kind of work I do now is completely derivative of the research I conducted - it
-provided me with niche problem solving skills and an ability to synthesise new approaches to problems.
-EngD and CEng are pretty much aligned
+My EngD provided pretty much all of the experience I needed to become chartered. It required a bit of upfront 
+thinking but was a pretty painless process over all and took no less time than the traditional route. 
+The kind of work I do now is completely derivative of the research I conducted - the EngD provided me with 
+a technical base and problem solving skills that I use on a daily basis. I would recommend insustrial research 
+as a platform for an interesting career, with no loss in terms of professional development.
 
 ```{r include=FALSE}
 # automatically create a bib database for R packages
