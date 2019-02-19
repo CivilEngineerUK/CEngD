@@ -1,6 +1,6 @@
 --- 
-title: "Chartership for Industrial Researchers"
-subtitle: "CEng for EngD's"
+title: "The EngD Guide to Chartership"
+subtitle: "CEng for EngD"
 author: "Michael Rustell"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
